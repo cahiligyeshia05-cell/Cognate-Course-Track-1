@@ -13,4 +13,4 @@ In terms of software, the code is straightforward as always. The top part before
 
 void setup() looped through pins 2 to 8 connecting to A to G respectively. It also assigned the buttons for input, so that they can perform decrementation and incrementation. The starting display number is set to 0.
 void displayNumber() ensured that the numbers don't go beyond 0 or 9 despite additional decrementation or incrementation.
-void loop() performed the button operations which changed the 7 segment's displayed integer when the left button is pushed (decremented) or the right button is pushed (incremented)>
+void loop() performed the button operations which changed the 7 segment's displayed integer when the left button is pushed (decremented) or the right button is pushed (incremented).
